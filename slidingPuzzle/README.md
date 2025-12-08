@@ -8,4 +8,5 @@ Note: the program should at least run in Python 2.7 enviroment!
 
 Before testing: put two initial configurations as input in puzzle1.txt puzzle2.txt and place these two input files in the same directory with the other files
 
+
 To test A* search then type command:      python astar.py      in the shell.
